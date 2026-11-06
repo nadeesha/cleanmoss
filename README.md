@@ -2,6 +2,8 @@
 
 A native macOS menu bar app for capturing a selected area, annotating it, and copying or saving the result. Includes blur, pixelation, redaction, and crop.
 
+![Cleanmoss editor showing an arrow, a highlighted status, and a blurred field on a sample capture](docs/cleanmoss-editor.png)
+
 ## Build from source
 
 Requires macOS 14 or later and Apple’s Command Line Tools (`xcode-select --install`).
